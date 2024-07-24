@@ -2,7 +2,7 @@
 ## Subtítulo
 
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bttjosi/exemplo-readme/blob/main/LICENSE) sheelds.io (para gerar selo)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bttjosi/exemplo-readme/blob/main/LICENSE) <!-- sheelds.io (para gerar selo) -->
 
 # Sobre o projeto
 
